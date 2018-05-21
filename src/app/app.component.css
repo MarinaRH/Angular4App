@@ -1,0 +1,17 @@
+.hobbies {
+    background-color: rgb(21, 59, 59);
+    color: white;
+    padding: 20px;
+}
+
+.btn-show {
+    background-color: brown;
+    color: white;
+    font-size: 1.4rem;
+    padding: 15px;
+    margin: 10px 0;
+}
+
+input[name="hobby"]{
+    color: black;
+}
